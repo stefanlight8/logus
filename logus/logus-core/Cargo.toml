@@ -1,0 +1,6 @@
+[package]
+name = "logus-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
